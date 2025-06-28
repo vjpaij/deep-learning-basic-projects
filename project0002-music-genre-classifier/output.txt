@@ -1,0 +1,11 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+       blues       0.00      0.00      0.00       1.0
+        jazz       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       1.0
+   macro avg       0.00      0.00      0.00       1.0
+weighted avg       0.00      0.00      0.00       1.0
+
