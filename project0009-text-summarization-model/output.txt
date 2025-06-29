@@ -1,0 +1,13 @@
+🔍 Original Text:
+ 
+Artificial Intelligence (AI) is rapidly transforming our world. 
+From self-driving cars and personalized recommendations to virtual assistants and automated customer service, 
+AI applications are everywhere. The technology uses algorithms and large datasets to learn patterns, 
+make decisions, and even generate human-like text and images. While AI offers immense potential, 
+it also raises ethical concerns around bias, job displacement, and privacy. 
+Understanding how AI works is becoming increasingly important for both individuals and organizations.
+ 
+
+📝 Summary:
+ artificial intelligence (AI) is rapidly transforming our world . it uses algorithms and large datasets to learn patterns, make decisions, 
+ and even generate human-like text and images . the technology raises ethical concerns around bias, job displacement, and privacy .
