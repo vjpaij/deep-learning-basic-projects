@@ -1,0 +1,15 @@
+Token           Dep             Head            POS       
+------------------------------------------------------------
+The             det             girl            DET       
+little          amod            girl            ADJ       
+girl            nsubj           saw             NOUN      
+saw             ROOT            saw             VERB      
+a               det             dog             DET       
+dog             nsubj           chasing         NOUN      
+chasing         ccomp           saw             VERB      
+a               det             squirrel        DET       
+squirrel        dobj            chasing         NOUN      
+in              prep            chasing         ADP       
+the             det             park            DET       
+park            pobj            in              NOUN      
+.               punct           saw             PUNCT     
