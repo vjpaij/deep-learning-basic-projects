@@ -1,0 +1,3 @@
+📝 Extracted Equation: 6 + 2(1+2) =
+
+❌ Could not parse or solve the equation: 'Integer' object is not callable
