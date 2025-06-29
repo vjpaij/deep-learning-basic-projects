@@ -1,0 +1,7 @@
+Named Entities:
+
+Barack Obama                   ➤ PERSON
+Hawaii                         ➤ GPE
+44th                           ➤ ORDINAL
+the United States              ➤ GPE
+Harvard University             ➤ ORG
