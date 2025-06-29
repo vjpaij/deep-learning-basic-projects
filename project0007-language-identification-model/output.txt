@@ -1,0 +1,18 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+     English       0.00      0.00      0.00       1.0
+      German       0.00      0.00      0.00       0.0
+       Hindi       0.00      0.00      0.00       0.0
+  Portuguese       0.00      0.00      0.00       1.0
+     Russian       0.00      0.00      0.00       1.0
+     Spanish       0.00      0.00      0.00       0.0
+
+    accuracy                           0.00       3.0
+   macro avg       0.00      0.00      0.00       3.0
+weighted avg       0.00      0.00      0.00       3.0
+
+
+📄 Input: "¿Dónde está la biblioteca?"
+🔤 Predicted Language: Spanish
