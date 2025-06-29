@@ -1,0 +1,15 @@
+Word		POS		Explanation
+----------------------------------------
+The       	DET       	determiner
+quick     	ADJ       	adjective
+brown     	ADJ       	adjective
+fox       	NOUN      	noun
+jumps     	VERB      	verb
+over      	ADP       	adposition
+the       	DET       	determiner
+lazy      	ADJ       	adjective
+dog       	NOUN      	noun
+near      	ADP       	adposition
+the       	DET       	determiner
+riverbank 	NOUN      	noun
+.         	PUNCT     	punctuation
